@@ -61,7 +61,8 @@ const exportableFields = [
   { value: 'edificio', label: 'EDIFICIO' },
   { value: 'piso', label: 'PISO' },
   { value: 'direccion', label: 'DIRECCIÓN' },
-  { value: 'dependencia', label: 'DEPENDENCIA' },
+  { value: 'unidad', label: 'UNIDAD ADMINISTRATIVA' },
+  { value: 'area', label: 'ÁREA' },
   { value: 'municipio', label: 'MUNICIPIO' },
   { value: 'responsable', label: 'RESPONSABLE' },
 ];

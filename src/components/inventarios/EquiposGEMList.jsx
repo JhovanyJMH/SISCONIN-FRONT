@@ -40,7 +40,8 @@ const exportableFields = [
   { value: 'puesto', label: 'PUESTO' },
   { value: 'telefono', label: 'TELÉFONO' },
   { value: 'direccion', label: 'DIRECCIÓN' },
-  { value: 'dependencia', label: 'DEPENDENCIA' },
+  { value: 'unidad', label: 'UNIDAD ADMINISTRATIVA' },
+  { value: 'area', label: 'ÁREA' },
   { value: 'municipio', label: 'MUNICIPIO' },
   { value: 'responsable', label: 'RESPONSABLE' },
 ];
